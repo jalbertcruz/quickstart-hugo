@@ -1,8 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-# theme = 'ananke'
-theme = 'docsy'
+theme = 'ananke'
+#theme = 'docsy'
 
 [markup]
   [markup.asciidocExt]
